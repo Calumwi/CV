@@ -20,16 +20,16 @@ Artist Manager
    Communication - Developed clear, concise and solution-oriented communication with a wide variety of individuals and companies
    
 
-**Next (2016 to 2017)
+**Next** (2016 to 2017)
 Sales Associate
 
 - Customer-facing role that included stock-taking and working to KPI's and deadlines.
 
-**Fever-Tree (2017)
+**Fever-Tree** (2017)
 Bar Staff
 
 
-**Wimbledon Tennis Championships (2015 and 2017)  
+**Wimbledon Tennis Championships** (2015 and 2017)  
 Day Housekeeper at Centrecourt
 
 
