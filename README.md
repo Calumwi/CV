@@ -1,13 +1,14 @@
 ## Calum Wilmot
 
-I'm a calm, positive and dedicated software developer with a strong inclination towards teamwork and collective problem solving. My pre-coding background is in the music industry, as both a performer and manager, and I'm fluent in Spanish and advanced in French thanks to my languages degree. Having experienced first hand the degree to which tech both serves and defines a supposedly creative sector such as music, I am unbelievably excited to explore the different ways I can play a part in the increasing influence of tech in our day-to-day.
+I'm a calm, positive and dedicated software developer with a strong inclination towards teamwork and collective problem solving. My pre-coding background is in the music industry, as both a performer and manager, and I'm fluent in Spanish and advanced in French thanks to my languages degree. Having experienced first hand the degree to which tech both serves and defines a creative sector such as music, I am unbelievably excited to explore the different ways I can play a part in the increasing influence of tech in our day-to-day.
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description                     | Tech/tools                               |
+| ---------------------------- | --------------------------      | ---------------------------------------- |
+| Rat Race.                    | A Snakes and Ladders clone      | React, Javascript, Node, JSX             |
+| Ruffians BnB                 | An AirBnB clone.                | Ruby, ActiveRecord, Rspec, HTML          |
+| Feta                         | A Feta-themed clone of Facebook | React, Mongo DB, Express, Node, Firebase |
 
 ## Work Experience
 
@@ -30,7 +31,10 @@ Consider skills relevent to software development. Then consider your best skills
 (Using a STAR example Paragraph) Consider the questions below.
 
 **Communication
-I have extensive experience communicating complex information quickly and accurately in a variety of contexts. For example, my time spent studying French and Spanish at the University of Southampton necessitated a high degree of collaboration with other students and delegation of tasks. As well as this, it required the ability to have difficult conversations, a skill demonstrated during my time conducting an ethnographic research project in Spain on the relevance of the Spanish Catholic Church to youth identity. Given the sensitive and potentially controversial nature of the reserach, I was requiredd to be sensitive but direct about several difficult topics. Despite these potential pitfalls, the studies were completed without incident, with the valuable informaiton proving crucial in the completion of my study.
+I have extensive experience communicating complex information quickly and accurately in a variety of contexts. For example, my time spent studying French and Spanish at the University of Southampton necessitated a high degree of collaboration with other students and delegation of tasks. As well as this, it required the ability to have difficult conversations, a skill demonstrated during my time conducting an ethnographic research project in Spain on the relevance of the Spanish Catholic Church to youth identity. Given the sensitive and potentially controversial nature of the reserach, I was required to be sensitive but direct about several difficult topics. Despite these potential pitfalls, the studies were completed without incident, with the valuable informaiton proving crucial in the completion of my study.
+
+**Teamwork
+One of the aspects I have most enjoyed during my professional development has been working as part of a team. Be it as part of an artist management team, such as at Crosstalk, all the way back to my younger days when I was fortunate enough to playrugby around the world, I have always thrived in team environments. This proclivity towards collectivity was especially useful during my time at Makers Academy, where 50% of the time on the course was spent in self-governed groups tackling extended projects. In one of these groups, I spent time as a team leader, allocating time, tickets, scheduling the day and leading stand-ups and retros. In doing this, I helped engender a culture of knowledge-sharing between the different pairs working on different branches of the project to avoid people falling behind as well as ensuring that the less vocal members of the team were heard and maintained investment in the work we were doing.
 
 -STAR
 -What was the situation/task? (ST)
