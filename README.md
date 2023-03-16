@@ -33,7 +33,7 @@ Sales Associate
 Bar Staff
 
 While working at Fever-Tree, among my duties were:
-   - Working under pressure - My work for Fever-Tree took place exclusively at pop-bars at international cricket events, and as such my team and I were          constantly subjected to rushes surrounding half time and breaks and start of play. Because of this, it was crucial that I work quickly and efficently,      often with intoxicated and abusive customers, to ensure that the Fever-Tree clientelle were satisfied.
+   - Working under pressure - My work for Fever-Tree took place exclusively at pop-bars at international cricket events, and as such my team and I were          constantly subjected to rushes surrounding half time and breaks and start of play. Because of this, it was crucial that I work quickly and                  efficiently, often with intoxicated and abusive customers, to ensure that the Fever-Tree clientele were satisfied.
 
 
 **Wimbledon Tennis Championships** (2015 and 2017)  
